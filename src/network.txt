@@ -1,0 +1,8 @@
+# Cities
+Prague 1300000
+Brno 380000
+Plzen 170000
+
+# Roads
+Prague Brno 1 D1
+Brno Plzen 2 I
